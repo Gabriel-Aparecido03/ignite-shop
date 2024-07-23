@@ -18,10 +18,6 @@
 
 <br>
 
-<p align="center">
-  <img src=".github/assets/preview.png" width="90%">
-</p>
-
 ## Sobre o Projeto
 
 Nesse projeto foi desenvolvido o Ignite Shop, um projeto completo com o framework Next.js. Foi utilizado StitchesJs, utilizando-se de conceitos como SPA, server-side rendering (SSR) e static-site generation (SSG).
@@ -79,7 +75,3 @@ $ npm i
 ## Licença
 
 Distribuído sob a licença **_MIT_**. Veja [LICENSE](LICENSE) para mais informações.
-
-## Autor
-
-Feito com ❤️ por [`Marcel Kaled`](https://github.com/mgckaled/).
